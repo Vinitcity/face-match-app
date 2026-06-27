@@ -1,3 +1,4 @@
-streamlit
+gradio
 face_recognition
 cmake
+insightface
