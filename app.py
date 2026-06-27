@@ -31,3 +31,5 @@ if file1 and file2:
             st.error(f"❌ **No Match!** Dono alag-alag insaan hain. Match score: {confidence}%")
     else:
         st.warning("⚠️ Kisi ek photo me chehra saaf nahi dikh raha hai. Kripya doosri photo try karein.")
+
+    
